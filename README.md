@@ -1,49 +1,45 @@
-# Hi, I'm Arthur Guimarães! 👋
+# Hi, I'm Arthur Guimarães 👋
 
-### Computer Science student | Aspiring Software Developer
+**Software Developer · Product Builder · Technology Enthusiast**
 
-I'm at the beginning of my software development journey, building a strong foundation in computer science through hands-on learning and personal projects. I'm currently taking **Harvard's CS50x** and using GitHub to document my progress, practice problem-solving, and share what I build.
+I enjoy turning ideas into working software: understanding a problem, shaping the product experience, implementing features, connecting services, testing real flows and improving the result through iteration.
 
-My goal is to become a software developer who can turn ideas into useful, reliable, and well-documented software.
+My work and interests include application development, backend and frontend integration, AI-assisted workflows, accessibility, cross-platform experiences and practical problem-solving.
 
-## What I'm working on
+## Featured project
 
-- 🎓 **CS50x — Harvard University:** learning core computer science concepts, algorithms, programming fundamentals, and computational thinking.
-- 🦆 **CS50 Duck:** using the course's AI learning companion to ask questions, understand concepts, and improve my problem-solving process.
-- 🚀 **NORA:** an independent project I am preparing to document and present in its own repository. A detailed description will be added after reviewing its actual development history and technical scope.
-- 🧰 **Developer workflow:** learning Git, GitHub, project documentation, and practical development tools.
+### ✳ NORA — Personal Organization, Accessibility & Well-being
 
-## Current learning path
+NORA is an independent software project that I lead and develop. It brings together personal organization, routines, study/work planning, focus tools, accessibility options, sleep-related features and optional AI assistance in a responsive web application, with an experimental Android client.
 
-Through CS50x, I'm working through computer science fundamentals and the languages and tools introduced throughout the course, including:
+I work across the product and engineering process: Python/FastAPI backend, JavaScript/HTML/CSS frontend, SQLite persistence, REST APIs, Android Java/WebView integration, Gradle, automated tests, debugging and technical documentation.
 
-- C
-- Python
-- SQL
-- HTML, CSS, and JavaScript
+The project has also explored permission-based Gemini tool workflows, optional SerpAPI integrations, protected offline copies and synchronization safeguards. It is an evolving prototype; the Android app is experimental, and health-related functions are not clinically validated.
 
-I'm listing these as part of my learning path, not claiming professional-level proficiency. I'll update this section as I complete coursework and publish projects.
+**NORA technology stack:** `Python` `FastAPI` `JavaScript` `HTML` `CSS` `SQLite` `REST APIs` `Java` `Android Studio` `Gradle` `Pytest` `Git/GitHub`
 
-## Tools and workflow
+## Technologies I work with
 
-- **Version control:** Git and GitHub
-- **Learning:** Harvard CS50x and CS50 Duck
-- **Project documentation:** Markdown and GitHub repositories
+- **Backend:** Python, FastAPI, REST APIs, SQLite
+- **Frontend:** JavaScript, HTML, CSS
+- **Mobile prototype:** Java, Android Studio, Gradle, WebView
+- **Quality & workflow:** Pytest, debugging, Git, GitHub, Markdown
+- **Integrations explored:** Google Gemini API and SerpAPI (server-side, optional)
 
-## Goals
+## Current learning
 
-- Strengthen my foundations in computer science and programming.
-- Improve my ability to analyze problems and design solutions.
-- Build complete projects and document them clearly.
-- Learn software engineering practices, APIs, and AI integrations.
-- Develop a portfolio that demonstrates consistent progress and practical skills.
+I'm currently studying **Harvard's CS50x** to keep strengthening my computer science foundations alongside independent software development and product work. The course is part of my learning path, not the whole story behind my profile.
 
-## About this profile
+## What I care about building
 
-This GitHub profile is my public learning and project log. I plan to share coursework, experiments, documentation, and personal projects as they evolve.
+- Useful applications with clear product flows.
+- Reliable integrations between interfaces, APIs and data layers.
+- Accessible and understandable user experiences.
+- AI features with clear permissions and user control.
+- Software that is tested, documented and improved over time.
 
-**Learning by building. Improving one project at a time.** 🚀
+**Building, testing and improving — one iteration at a time.** 🚀
 
 ---
 
-📍 Brazil
+📍 Brazil · [GitHub](https://github.com/ArthurGuimaraess)
