@@ -2,6 +2,8 @@
 
 **Software Developer · Product Builder · Technology Enthusiast**
 
+🇧🇷 **Brazilian roots** · 🇧🇦 **Bosnian roots**
+
 I build and evolve software projects by understanding real needs, shaping product experiences, implementing features, integrating services, testing and improving through iteration.
 
 ## Featured project
@@ -42,4 +44,4 @@ I'm studying **Harvard's CS50x** to strengthen my computer science foundations a
 
 ---
 
-📍 Brazil · [GitHub](https://github.com/ArthurGuimaraess) 🇧🇷/🇧🇦 
+📍 Brazil · 🇧🇷 Brazilian roots · 🇧🇦 Bosnian roots · [GitHub](https://github.com/ArthurGuimaraess)
