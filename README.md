@@ -10,16 +10,8 @@ My goal is to become a software developer who can turn ideas into useful, reliab
 
 - 🎓 **CS50x — Harvard University:** learning core computer science concepts, algorithms, programming fundamentals, and computational thinking.
 - 🦆 **CS50 Duck:** using the course's AI learning companion to ask questions, understand concepts, and improve my problem-solving process.
-- 🤖 **NORA:** developing and documenting a personal AI assistant project.
+- 🚀 **NORA:** an independent project I am preparing to document and present in its own repository. A detailed description will be added after reviewing its actual development history and technical scope.
 - 🧰 **Developer workflow:** learning Git, GitHub, project documentation, and practical development tools.
-
-## Featured project
-
-### NORA — Personal AI Assistant
-
-NORA is my personal assistant project. It is being developed and tested in a local environment. The current setup includes a Lenovo computer acting as the host and a second Windows 11 computer used to access it, with **Tailscale** providing private connectivity between the devices.
-
-I'm preparing a dedicated repository to document NORA's goals, architecture, setup, integrations, and development progress. Technical details will be added as they are verified and published.
 
 ## Current learning path
 
@@ -32,12 +24,11 @@ Through CS50x, I'm working through computer science fundamentals and the languag
 
 I'm listing these as part of my learning path, not claiming professional-level proficiency. I'll update this section as I complete coursework and publish projects.
 
-## Tools and environment
+## Tools and workflow
 
 - **Version control:** Git and GitHub
-- **Operating systems:** Windows 11
-- **Remote connectivity:** Tailscale
 - **Learning:** Harvard CS50x and CS50 Duck
+- **Project documentation:** Markdown and GitHub repositories
 
 ## Goals
 
