@@ -1,63 +1,58 @@
-# Olá, eu sou Arthur Guimarães! 👋
+# Hi, I'm Arthur Guimarães! 👋
 
-### Desenvolvedor em formação | Estudante de programação
+### Computer Science student | Aspiring Software Developer
 
-Estou começando minha jornada no desenvolvimento de software e construindo minha base em programação por meio de estudos, prática e projetos próprios. Atualmente, estou acompanhando um curso de programação de Harvard e usando o GitHub para documentar minha evolução.
+I'm at the beginning of my software development journey, building a strong foundation in computer science through hands-on learning and personal projects. I'm currently taking **Harvard's CS50x** and using GitHub to document my progress, practice problem-solving, and share what I build.
 
-Meu objetivo é me tornar desenvolvedor e aprender a criar soluções úteis, com código organizado, boa lógica e atenção à qualidade do software.
+My goal is to become a software developer who can turn ideas into useful, reliable, and well-documented software.
 
----
+## What I'm working on
 
-## 🚀 Atualmente
+- 🎓 **CS50x — Harvard University:** learning core computer science concepts, algorithms, programming fundamentals, and computational thinking.
+- 🦆 **CS50 Duck:** using the course's AI learning companion to ask questions, understand concepts, and improve my problem-solving process.
+- 🤖 **NORA:** developing and documenting a personal AI assistant project.
+- 🧰 **Developer workflow:** learning Git, GitHub, project documentation, and practical development tools.
 
-- 📚 **Estudando:** fundamentos de programação em um curso de Harvard.
-- 🧠 **Construindo:** projetos pessoais para transformar o conteúdo das aulas em prática.
-- 🧪 **Explorando:** ferramentas de desenvolvimento, inteligência artificial e integração entre computadores.
-- 🌱 **Evoluindo:** lógica de programação, resolução de problemas, Git e GitHub.
+## Featured project
 
-## 🛠️ Projetos
+### NORA — Personal AI Assistant
 
-### Nora — projeto pessoal em desenvolvimento
+NORA is my personal assistant project. It is being developed and tested in a local environment. The current setup includes a Lenovo computer acting as the host and a second Windows 11 computer used to access it, with **Tailscale** providing private connectivity between the devices.
 
-Projeto pessoal de assistente/aplicação que estou configurando e testando em ambiente local.
+I'm preparing a dedicated repository to document NORA's goals, architecture, setup, integrations, and development progress. Technical details will be added as they are verified and published.
 
-**O que estou explorando no projeto:**
-- Configuração de uma máquina como host da aplicação.
-- Comunicação e acesso entre computadores Windows.
-- Conectividade remota usando Tailscale.
-- Organização, configuração e solução de problemas durante o desenvolvimento.
+## Current learning path
 
-> O projeto está em evolução. Vou adicionar o repositório, a descrição técnica e as tecnologias utilizadas assim que a estrutura estiver publicada.
+Through CS50x, I'm working through computer science fundamentals and the languages and tools introduced throughout the course, including:
 
-## 💻 Tecnologias e ferramentas
+- C
+- Python
+- SQL
+- HTML, CSS, and JavaScript
 
-| Área | Tecnologias / ferramentas |
-|---|---|
-| Versionamento | Git e GitHub |
-| Ambiente de desenvolvimento | Windows 11 |
-| Rede e acesso remoto | Tailscale |
-| Estudos | Fundamentos de programação — curso de Harvard |
+I'm listing these as part of my learning path, not claiming professional-level proficiency. I'll update this section as I complete coursework and publish projects.
 
-### Linguagens de programação
+## Tools and environment
 
-Estou consolidando meus fundamentos e organizando os estudos das linguagens abordadas no curso. Vou atualizar esta seção conforme avançar nas aulas e publicar projetos que demonstrem minha prática.
+- **Version control:** Git and GitHub
+- **Operating systems:** Windows 11
+- **Remote connectivity:** Tailscale
+- **Learning:** Harvard CS50x and CS50 Duck
 
-*Prefiro mostrar com clareza o que estou realmente estudando e desenvolvendo, em vez de listar tecnologias sem experiência prática.*
+## Goals
 
-## 🎯 Objetivos
+- Strengthen my foundations in computer science and programming.
+- Improve my ability to analyze problems and design solutions.
+- Build complete projects and document them clearly.
+- Learn software engineering practices, APIs, and AI integrations.
+- Develop a portfolio that demonstrates consistent progress and practical skills.
 
-- Desenvolver uma base sólida em lógica e pensamento computacional.
-- Aprender boas práticas e escrever código legível e organizado.
-- Construir projetos completos e documentá-los.
-- Aprender a trabalhar com APIs, ferramentas de IA e diferentes ambientes de desenvolvimento.
-- Evoluir continuamente e construir um portfólio consistente.
+## About this profile
 
-## 📈 Minha jornada
+This GitHub profile is my public learning and project log. I plan to share coursework, experiments, documentation, and personal projects as they evolve.
 
-Este perfil é meu espaço para registrar projetos, exercícios, descobertas e evolução como desenvolvedor. Os repositórios serão atualizados conforme eu avançar nos estudos.
-
-**Sempre aprendendo. Sempre construindo.** 🚀
+**Learning by building. Improving one project at a time.** 🚀
 
 ---
 
-<sub>📍 Brasil · Este perfil está em constante atualização.</sub>
+📍 Brazil
