@@ -42,4 +42,4 @@ I'm studying **Harvard's CS50x** to strengthen my computer science foundations a
 
 ---
 
-📍 Brazil · [GitHub](https://github.com/ArthurGuimaraess)
+📍 Brazil · [GitHub](https://github.com/ArthurGuimaraess) 🇧🇷/🇧🇦 
