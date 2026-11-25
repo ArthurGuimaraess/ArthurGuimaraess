@@ -3,7 +3,7 @@
 **Software Developer · Product Builder · Technology Enthusiast**
 
 **Read this profile in:**  
-🇬🇧 [English](README.md) · 🇧🇷 [Português](README.pt-BR.md) · 🇩🇪 [Deutsch](README.de.md) · 🇷🇺 [Русский](README.ru.md) · 🇪🇸 [Español](README.es.md) · 🇫🇷 [Français](README.fr.md) · 🇩🇰 [Dansk](README.da.md) · 🇧🇦 [Bosanski](README.bs.md)
+🇬🇧 [English](README.md) · 🇧🇷 [Português](README.pt-BR.md) · 🇩🇪 [Deutsch](README.de.md) · 🇷🇺 [Русский](README.ru.md) · 🇪🇸 [Español](README.es.md) · 🇫🇷 [Français](README.fr.md) · 🇩🇰 [Dansk](README.da.md) · 🇧🇦 [Bosanski](README.bs.md) · 🇷🇸 [Srpski](README.sr.md) · 🇵🇱 [Polski](README.pl.md) · 🇺🇦 [Українська](README.uk.md)
 
 🇧🇷 **Brazilian roots** · 🇧🇦 **Bosnian roots** · 🇪🇸 **Spanish roots**
 
@@ -11,9 +11,8 @@ I build and evolve software projects by understanding real needs, shaping produc
 
 ## Languages I speak
 
-🇧🇷 Portuguese · 🇩🇪 German · 🇬🇧 English · 🇷🇺 Russian · 🇪🇸 Spanish · 🇫🇷 French · 🇩🇰 Danish · 🇧🇦 Bosnian · **+3 additional languages**
+🇧🇷 Portuguese · 🇩🇪 German · 🇬🇧 English · 🇷🇺 Russian · 🇪🇸 Spanish · 🇫🇷 French · 🇩🇰 Danish · 🇧🇦 Bosnian · 🇷🇸 Serbian · 🇵🇱 Polish · 🇺🇦 Ukrainian
 
-*The three additional languages are not listed by name yet. Proficiency levels are not specified.*
 
 ## Featured project
 

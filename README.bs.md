@@ -3,7 +3,7 @@
 **Softverski programer · Kreator digitalnih proizvoda · Zaljubljenik u tehnologiju**
 
 **Pročitaj ovaj profil na:**  
-🇧🇦 [Bosanski](README.bs.md) · 🇬🇧 [English](README.md) · 🇧🇷 [Português](README.pt-BR.md) · 🇩🇪 [Deutsch](README.de.md) · 🇷🇺 [Русский](README.ru.md) · 🇪🇸 [Español](README.es.md) · 🇫🇷 [Français](README.fr.md) · 🇩🇰 [Dansk](README.da.md)
+🇧🇦 [Bosanski](README.bs.md) · 🇬🇧 [English](README.md) · 🇧🇷 [Português](README.pt-BR.md) · 🇩🇪 [Deutsch](README.de.md) · 🇷🇺 [Русский](README.ru.md) · 🇪🇸 [Español](README.es.md) · 🇫🇷 [Français](README.fr.md) · 🇩🇰 [Dansk](README.da.md) · 🇷🇸 [Srpski](README.sr.md) · 🇵🇱 [Polski](README.pl.md) · 🇺🇦 [Українська](README.uk.md)
 
 🇧🇷 **Brazilski korijeni** · 🇧🇦 **Bosanski korijeni** · 🇪🇸 **Španski korijeni**
 
@@ -11,9 +11,8 @@ Razvijam i unapređujem softverske projekte tako što razumijem stvarne potrebe,
 
 ## Jezici koje govorim
 
-🇧🇷 Portugalski · 🇩🇪 Njemački · 🇬🇧 Engleski · 🇷🇺 Ruski · 🇪🇸 Španski · 🇫🇷 Francuski · 🇩🇰 Danski · 🇧🇦 Bosanski · **+3 dodatna jezika**
+🇧🇷 Portugalski · 🇩🇪 Njemački · 🇬🇧 Engleski · 🇷🇺 Ruski · 🇪🇸 Španski · 🇫🇷 Francuski · 🇩🇰 Danski · 🇧🇦 Bosanski · 🇷🇸 Srpski · 🇵🇱 Poljski · 🇺🇦 Ukrajinski
 
-*Tri dodatna jezika još nisu navedena po imenu. Nivoi znanja jezika nisu navedeni.*
 
 ## Istaknuti projekat
 

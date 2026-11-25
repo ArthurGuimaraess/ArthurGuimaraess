@@ -3,7 +3,7 @@
 **Développeur logiciel · Créateur de produits numériques · Passionné de technologie**
 
 **Lire ce profil en :**  
-🇫🇷 [Français](README.fr.md) · 🇬🇧 [English](README.md) · 🇧🇷 [Português](README.pt-BR.md) · 🇩🇪 [Deutsch](README.de.md) · 🇷🇺 [Русский](README.ru.md) · 🇪🇸 [Español](README.es.md) · 🇩🇰 [Dansk](README.da.md) · 🇧🇦 [Bosanski](README.bs.md)
+🇫🇷 [Français](README.fr.md) · 🇬🇧 [English](README.md) · 🇧🇷 [Português](README.pt-BR.md) · 🇩🇪 [Deutsch](README.de.md) · 🇷🇺 [Русский](README.ru.md) · 🇪🇸 [Español](README.es.md) · 🇩🇰 [Dansk](README.da.md) · 🇧🇦 [Bosanski](README.bs.md) · 🇷🇸 [Srpski](README.sr.md) · 🇵🇱 [Polski](README.pl.md) · 🇺🇦 [Українська](README.uk.md)
 
 🇧🇷 **Origines brésiliennes** · 🇧🇦 **Origines bosniaques** · 🇪🇸 **Origines espagnoles**
 
@@ -11,9 +11,8 @@ Je développe et fais évoluer des projets logiciels en partant de besoins réel
 
 ## Langues que je parle
 
-🇧🇷 Portugais · 🇩🇪 Allemand · 🇬🇧 Anglais · 🇷🇺 Russe · 🇪🇸 Espagnol · 🇫🇷 Français · 🇩🇰 Danois · 🇧🇦 Bosniaque · **+3 autres langues**
+🇧🇷 Portugais · 🇩🇪 Allemand · 🇬🇧 Anglais · 🇷🇺 Russe · 🇪🇸 Espagnol · 🇫🇷 Français · 🇩🇰 Danois · 🇧🇦 Bosniaque · 🇷🇸 Serbe · 🇵🇱 Polonais · 🇺🇦 Ukrainien
 
-*Les trois autres langues ne sont pas encore précisées par leur nom. Les niveaux de maîtrise ne sont pas indiqués.*
 
 ## Projet à la une
 

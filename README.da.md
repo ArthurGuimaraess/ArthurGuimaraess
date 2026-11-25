@@ -3,7 +3,7 @@
 **Softwareudvikler · Produktbygger · Teknologiinteresseret**
 
 **Læs denne profil på:**  
-🇩🇰 [Dansk](README.da.md) · 🇬🇧 [English](README.md) · 🇧🇷 [Português](README.pt-BR.md) · 🇩🇪 [Deutsch](README.de.md) · 🇷🇺 [Русский](README.ru.md) · 🇪🇸 [Español](README.es.md) · 🇫🇷 [Français](README.fr.md) · 🇧🇦 [Bosanski](README.bs.md)
+🇩🇰 [Dansk](README.da.md) · 🇬🇧 [English](README.md) · 🇧🇷 [Português](README.pt-BR.md) · 🇩🇪 [Deutsch](README.de.md) · 🇷🇺 [Русский](README.ru.md) · 🇪🇸 [Español](README.es.md) · 🇫🇷 [Français](README.fr.md) · 🇧🇦 [Bosanski](README.bs.md) · 🇷🇸 [Srpski](README.sr.md) · 🇵🇱 [Polski](README.pl.md) · 🇺🇦 [Українська](README.uk.md)
 
 🇧🇷 **Brasilianske rødder** · 🇧🇦 **Bosniske rødder** · 🇪🇸 **Spanske rødder**
 
@@ -11,9 +11,8 @@ Jeg udvikler og forbedrer softwareprojekter ved at forstå reelle behov, forme p
 
 ## Sprog, jeg taler
 
-🇧🇷 Portugisisk · 🇩🇪 Tysk · 🇬🇧 Engelsk · 🇷🇺 Russisk · 🇪🇸 Spansk · 🇫🇷 Fransk · 🇩🇰 Dansk · 🇧🇦 Bosnisk · **+3 yderligere sprog**
+🇧🇷 Portugisisk · 🇩🇪 Tysk · 🇬🇧 Engelsk · 🇷🇺 Russisk · 🇪🇸 Spansk · 🇫🇷 Fransk · 🇩🇰 Dansk · 🇧🇦 Bosnisk · 🇷🇸 Serbisk · 🇵🇱 Polsk · 🇺🇦 Ukrainsk
 
-*De tre yderligere sprog er endnu ikke angivet ved navn. Sprogniveauer er ikke oplyst.*
 
 ## Udvalgt projekt
 
