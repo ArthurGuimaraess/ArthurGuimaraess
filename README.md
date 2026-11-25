@@ -2,17 +2,26 @@
 
 **Software Developer · Product Builder · Technology Enthusiast**
 
+**Read this profile in:**  
+🇬🇧 [English](README.md) · 🇧🇷 [Português](README.pt-BR.md) · 🇩🇪 [Deutsch](README.de.md) · 🇷🇺 [Русский](README.ru.md) · 🇪🇸 [Español](README.es.md) · 🇫🇷 [Français](README.fr.md) · 🇩🇰 [Dansk](README.da.md) · 🇧🇦 [Bosanski](README.bs.md)
+
 🇧🇷 **Brazilian roots** · 🇧🇦 **Bosnian roots** · 🇪🇸 **Spanish roots**
 
 I build and evolve software projects by understanding real needs, shaping product experiences, implementing features, integrating services, testing and improving through iteration.
+
+## Languages I speak
+
+🇧🇷 Portuguese · 🇩🇪 German · 🇬🇧 English · 🇷🇺 Russian · 🇪🇸 Spanish · 🇫🇷 French · 🇩🇰 Danish · 🇧🇦 Bosnian · **+3 additional languages**
+
+*The three additional languages are not listed by name yet. Proficiency levels are not specified.*
 
 ## Featured project
 
 ### ✳ [NORA — A gentler digital companion for everyday life](https://github.com/ArthurGuimaraess/nora-personal-assistant)
 
-NORA is my main independent software project. Its purpose is to make everyday life more manageable and accessible for people navigating depression, anxiety, ADHD, OCD, insomnia and other mental-health, neurodevelopmental, sleep or routine-related challenges — as well as anyone who benefits from a calmer, more adaptable way to organize daily life.
+NORA is a collaborative project built by its founding team. Its purpose is to explore more accessible and adaptable ways to support everyday routines, focus, rest and personal organization.
 
-The focus is supportive everyday assistance: small steps, flexible routines, accessible interaction, focus and sleep-related tools, optional supportive features and user-controlled AI assistance. NORA is not a diagnostic or treatment tool, and its prototype features are not clinically validated.
+Its product direction is informed by the experiences of people living with depression, anxiety, ADHD, OCD, insomnia and other mental-health, neurodevelopmental, sleep or routine-related challenges — without presenting the product as a diagnostic or treatment tool.
 
 **Product direction:** Mental well-being · Neurodiversity · Sleep · Accessibility · Personal organization
 
@@ -30,7 +39,7 @@ The focus is supportive everyday assistance: small steps, flexible routines, acc
 
 ## Current learning
 
-I'm studying **Harvard's CS50x** to strengthen my computer science foundations alongside independent software development and product work. The course is part of my learning path, not the whole story behind my profile.
+I'm studying **Harvard's CS50x** to strengthen my computer science foundations alongside independent software development and product work.
 
 ## What I care about building
 
